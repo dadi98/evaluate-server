@@ -1,6 +1,6 @@
 import Evaluation from "./evaluation";
 import Student from "./student";
-import Module from "./module";
+import Module from "./course";
 
 export default interface Grade {
     student: Student;
